@@ -1,4 +1,5 @@
 # Hola, Soy Osman!
+![enter image description here](https://bit.ly/32dRJQK)
 
 Soy estudiante de **Ingeniería de Sistemas** en la Universidad de Cundinamarca,  nací en Fusagasuga, soy una persona muy pro-activa con muchas ganas de **aprender** y compartir **conocimiento**.
 
@@ -25,20 +26,3 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad de Cundinamarca,
 [![enter image description here](https://i.ibb.co/5j6xsf9/pinterest.png)](https://co.pinterest.com/osmanjimenezdev/)
 [![enter image description here](https://i.ibb.co/HYB6sjN/twitter.png)](https://twitter.com/osmanjimenezdev)
 [![enter image description here](https://i.ibb.co/KwYkSh2/youtube.png)](https://www.youtube.com/channel/UC-cQIbPx8PF7ebtLwyZRVaA)
-
-
-
-<!--
-**OsmanJimenez/OsmanJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
