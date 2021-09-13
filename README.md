@@ -1,6 +1,6 @@
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3cN_gedJDOzeKSgQUP8E6hPWaOq4xuZEjv2LiLYRZR6SmSu0jqwbWc56-h1cZkhKlPmYdrr3PiNLTSYMNc-C6991m2bJFbJHXMm6xX5JLH4suacUG3Pdbgujsm-9Y7Mdvl_8HQW8ltDIp2YoS1TVcTv=w1366-h586-no?authuser=0)
 
-Soy estudiante de **Ingeniería de Sistemas** en la Universidad de Cundinamarca,  nací en Fusagasuga, soy una persona muy pro-activa con muchas ganas de **aprender** y compartir **conocimiento**.
+Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca,  nací en Fusagasuga, soy una persona muy pro-activa con muchas ganas de **aprender** y compartir **conocimiento**.
 
 
 ## Mis conocimientos
