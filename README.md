@@ -1,11 +1,10 @@
 
-<h1 align="center">Hola 👋</h1>
+<h1 align="center">Hola 👋 Me llamo</h1>
 
 ![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3cN_gedJDOzeKSgQUP8E6hPWaOq4xuZEjv2LiLYRZR6SmSu0jqwbWc56-h1cZkhKlPmYdrr3PiNLTSYMNc-C6991m2bJFbJHXMm6xX5JLH4suacUG3Pdbgujsm-9Y7Mdvl_8HQW8ltDIp2YoS1TVcTv=w1366-h586-no?authuser=0)
 
 
 Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca, nací en Fusagasugá, soy una persona muy pro-activa con muchas ganas de **aprender** y compartir **conocimiento**.
-
 
 ## Skills
 
@@ -14,15 +13,12 @@ Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca, nací 
 ## Herramientas
    ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=) ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=) ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=) ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=) ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=) ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=) ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=) ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=) ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=) ![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=) ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=) ![NuGet](https://img.shields.io/static/v1?style=for-the-badge&message=NuGet&color=004880&logo=NuGet&logoColor=FFFFFF&label=) ![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=009FDA&logo=Scrum+Alliance&logoColor=FFFFFF&label=) ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=) ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=) ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=) ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=) ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)  
 
-## Redes Sociales
+## Contribuciones
 
-[![Behance Badge](https://img.shields.io/badge/-1769ff?style=flat&logo=Behance&logoColor=white&link=www.behance.net/osmanjimenezdev/)](https://www.behance.net/osmanjimenezdev/)
-[![Blogspot Badge](https://img.shields.io/badge/-f57d00?style=flat&logo=Rss&logoColor=white&link=www.osmanjimenezdev.blogspot.com/)](https://www.osmanjimenezdev.blogspot.com/)
-[![Instagram Badge](https://img.shields.io/badge/-e1306c?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/osmanjimenez/)](https://instagram.com/osmanjimenez.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-00a0dc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmanjimenez/)](https://www.linkedin.com/in/osmanjimenez/)
-[![Pinterest Badge](https://img.shields.io/badge/-bd081c?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/osmanjimenezdev/)](https://www.pinterest.com/osmanjimenezdev/)
-![Stack OverflowBadge](https://img.shields.io/badge/-F58025?style=flat&logo=Stack+Overflow&logoColor=white&link=https://stackexchange.com/users/26481824/osman-armando-jim%c3%a9nez-cortes/)
-[![Twitter Badge](https://img.shields.io/badge/-1da1f2?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/osmanjimenezdev/)](https://www.twitter.com/osmanjimenezdev/)
-[![Youtube Badge](https://img.shields.io/badge/-ff0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCyCmKYbu7sKcpj82Zj6ieag)](https://www.youtube.com/channel/UCyCmKYbu7sKcpj82Zj6ieag)
+![trophy](https://github-profile-trophy.vercel.app/?username=OsmanJimenez&theme=gitdimmed)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsmanJimenez&bg_color=30,3079f0,00d4ff&title_color=fff&text_color=fff) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OsmanJimenez&theme=github-dark-blue&locale=es)
+
+## Redes Sociales
+![Behance Badge](https://img.shields.io/badge/-1769ff?style=flat&logo=Behance&logoColor=white&link=www.behance.net/osmanjimenezdev/) ![Blogspot Badge](https://img.shields.io/badge/-f57d00?style=flat&logo=Rss&logoColor=white&link=www.osmanjimenezdev.blogspot.com/) ![Instagram Badge](https://img.shields.io/badge/-e1306c?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/osmanjimenez/) ![Linkedin Badge](https://img.shields.io/badge/-00a0dc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmanjimenez/) ![Pinterest Badge](https://img.shields.io/badge/-bd081c?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/osmanjimenezdev/) ![Stack OverflowBadge](https://img.shields.io/badge/-F58025?style=flat&logo=Stack+Overflow&logoColor=white&link=https://stackexchange.com/users/26481824/osman-armando-jim%c3%a9nez-cortes/)  ![Twitter Badge](https://img.shields.io/badge/-1da1f2?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/osmanjimenezdev/) ![Youtube Badge](https://img.shields.io/badge/-ff0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCyCmKYbu7sKcpj82Zj6ieag) 
+
 
 
