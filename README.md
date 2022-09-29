@@ -21,5 +21,8 @@ Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca, nací 
 [![Instagram Badge](https://img.shields.io/badge/-e1306c?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/osmanjimenez/)](https://instagram.com/osmanjimenez.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-00a0dc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmanjimenez/)](https://www.linkedin.com/in/osmanjimenez/)
 [![Pinterest Badge](https://img.shields.io/badge/-bd081c?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/osmanjimenezdev/)](https://www.pinterest.com/osmanjimenezdev/)
+![Stack OverflowBadge](https://img.shields.io/badge/-F58025?style=flat&logo=Stack+Overflow&logoColor=white&link=https://stackexchange.com/users/26481824/osman-armando-jim%c3%a9nez-cortes/)
 [![Twitter Badge](https://img.shields.io/badge/-1da1f2?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/osmanjimenezdev/)](https://www.twitter.com/osmanjimenezdev/)
-[![Youtube Badge](https://img.shields.io/badge/-ff0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC-cQIbPx8PF7ebtLwyZRVaA)](https://www.youtube.com/channel/UC-cQIbPx8PF7ebtLwyZRVaA)
+[![Youtube Badge](https://img.shields.io/badge/-ff0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCyCmKYbu7sKcpj82Zj6ieag)](https://www.youtube.com/channel/UCyCmKYbu7sKcpj82Zj6ieag)
+
+
