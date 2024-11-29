@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋 Me llamo Osman Armando Jimenez Cortes</h1>
 
 <p align="center">
-  <img src="img/portafolio.jpg">
+  <img src="img/portafolio.png">
 </p>
 
 Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca, nací en Fusagasugá, Colombia. Soy una persona altamente proactiva con un fuerte deseo de **aprender** y compartir **conocimiento** en el ámbito tecnológico. Me especializo en el desarrollo de aplicaciones web y móviles, siempre buscando crear soluciones innovadoras y escalables.
