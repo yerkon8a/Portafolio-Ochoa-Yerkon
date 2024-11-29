@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OsmanJimenez&label=Visualizaciones">
+  <img src="img/portafolio.jpg">
 </p>
 
 Soy **Ingeniero de Sistemas** graduado de la Universidad de Cundinamarca, nací en Fusagasugá, Colombia. Soy una persona altamente proactiva con un fuerte deseo de **aprender** y compartir **conocimiento** en el ámbito tecnológico. Me especializo en el desarrollo de aplicaciones web y móviles, siempre buscando crear soluciones innovadoras y escalables.
