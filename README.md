@@ -44,7 +44,7 @@ Estas son algunas de las herramientas que uso a diario para desarrollar proyecto
 
 Puedes encontrarme y seguirme en estas plataformas:
 
-[![LinkedIn Follow](https://img.shields.io/badge/-00a0dc?color=00a0dc&label=%40OSMANJIMENEZ&logo=Linkedin&logoColor=00a0dc&style=for-the-badge)](https://www.linkedin.com/in/osmanjimenez/)
+[![LinkedIn Follow](www.linkedin.com/in/yerkon-ochoa-ramos-3425731a3)
 
 ---
 ¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores apasionados. Si tienes alguna idea o proyecto en mente, no dudes en ponerte en contacto conmigo.
