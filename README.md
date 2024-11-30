@@ -34,6 +34,8 @@ Estas son algunas de las herramientas que uso a diario para desarrollar proyecto
 ![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=009FDA&logo=Scrum+Alliance&logoColor=FFFFFF&label=)
+[![Eclipse](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse&color=2C2255&logo=Eclipse&logoColor=FFFFFF&label=)](https://www.eclipse.org/)
+[![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)](https://www.jetbrains.com/idea/)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)
